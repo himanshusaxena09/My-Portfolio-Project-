@@ -42,6 +42,10 @@
         cursor: pointer;
     }
 
+     .firstSection{
+        flex-direction: column;
+    }
+
     .leftSection {
         font-size: 1.5rem;
         text-align: center;
@@ -61,7 +65,7 @@
     .btn {
         display: block;
         margin: 10px auto;
-        width: 107%;
+        width: 110%;
     }
 
     .box {
